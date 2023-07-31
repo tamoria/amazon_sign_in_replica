@@ -1,0 +1,102 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    border: 3px solid lightgray;
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+h1 {
+    text-align: left;
+    padding-left: 20px;
+    font-weight: 100;
+}
+h3 {
+    text-align: center;
+    font-weight: 100;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+    margin: 20px;
+    margin-left: 40px;
+}
+
+li {
+    display: inline;
+    color: blue;
+    font-size: x-small;
+    margin-left: 30px;
+}
+
+input {
+    background-color: white;
+    width: 93%;
+    height: 25px;
+}
+
+textarea {
+    background-color: white;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118) rgb(133, 133, 133));
+    height: 200px;
+}
+
+form {
+    color: black;
+    padding: 2px;
+    background-color: rbg(104, 133, 103);
+    border-radius: 5px;
+    margin-left: 20px;
+    line-height: 1.8;
+    
+}
+
+#continue {
+    color: black;
+    background-color: rgb(246, 207, 81);
+    padding: 5px;
+    border-radius: 3px;
+    margin: 10px;
+    margin-left: 1px;
+    width: 95%;
+}
+
+#Forgot {
+    margin-left: 145px;
+    color: blue;
+    font-size: small;
+}
+
+#Need {
+    color: blue;
+    font-size: small;
+    margin-left: 25px;
+    text-align: left;
+}
+
+#New {
+    color: gray;
+    font-size: small;
+}
+
+#create {
+    width: 95%;
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+img {
+    margin-left: 70px;
+    width: 60%;
+    height: 60%;
+}
+
